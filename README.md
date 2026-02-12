@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JonCastaway
-- 👀 I’m interested in FOSS and all things Linux
+- 👀 I've moved to https://codeberg.org/Johnny_Castaway
 
 <!---
 JonCastaway/JonCastaway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
